@@ -27,6 +27,8 @@
 }
 
 .content {
+    margin-top: 48px;
+    /* border: 1px solid black; */
     display: flex;
     flex-direction: column;
 }
@@ -35,6 +37,9 @@
     width: 100%;
 }
 @media screen and (min-width: 1024px) {
+    .content {
+        margin-top: 81px;
+    }
     .width-container {
         width: 768px;
     }

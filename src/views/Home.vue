@@ -3,7 +3,7 @@
     <div class="">
       <top-bar class="hidden lg:flex" />
       <top-bar class="flex lg:hidden" />
-      <div class="content mt-12 lg:mt-24 pb-5 border overflow-y-auto">
+      <div class="content pb-24 overflow-y-auto">
         <portofolio />
         <list-portofolio />
         <list-portofolio />
