@@ -1,6 +1,6 @@
 <template>
   <div
-    class="flex justify-between items-center absolute bottom-0 lg:bottom-5 border border-gray-lighter h-14 lg:h-16 w-full rounded-md bg-white py-6 px-2 lg:px-14"
+    class="flex justify-between items-center fixed bottom-0 width-768 lg:bottom-5 border border-gray-lighter h-14 lg:h-16 rounded-md bg-white py-6 px-2 lg:px-14"
   >
     <div
       class="w-12 h-12 p-2 cursor-pointer flex flex-col justify-center items-center hover:bg-gray rounded-md"

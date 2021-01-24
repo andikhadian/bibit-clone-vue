@@ -1,6 +1,6 @@
 <template>
   <div
-    class="flex justify-between items-center py-4 lg:py-8 px-5 lg:px-0 bg-white lg:bg-gray"
+    class="fixed top-0 width-768 flex justify-between items-center py-4 lg:py-8 px-5 lg:px-0 bg-white lg:bg-gray"
   >
     <img
       src="https://app.bibit.id/static/media/bibit-logo.fdd37e50.svg"
