@@ -42,6 +42,9 @@
 .recommendation {
     height: 550px;
 }
+.choose {
+    height: 200px;
+}
 @media screen and (min-width: 1024px) {
     .content {
         margin-top: 81px;
@@ -58,6 +61,9 @@
     }
     .recommendation {
         height: 500;
+    }
+    .choose {
+        height: 125px;
     }
   }
   

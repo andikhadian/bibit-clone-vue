@@ -1,7 +1,5 @@
 <template>
-  <div
-    class="recommendation mt-6 lg:border border-gray-lighter rounded-md bg-white p-5"
-  >
+  <div class="mt-6 lg:border border-gray-lighter rounded-md bg-white p-5">
     <h5 class="text-black text-lg font-bold">Rekomendasi Robo Kamu</h5>
     <p class="text-sm text-black font-normal mt-2">
       Langsung beli 3 reksa dana sesuai dengan profil resikomu

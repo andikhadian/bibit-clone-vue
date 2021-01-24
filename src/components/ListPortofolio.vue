@@ -33,9 +33,9 @@
           </div>
         </div>
         <div
-          class="border-t border-gray-lighter text-center flex justify-center pt-2"
+          class="border-t border-gray-lighter text-center flex justify-center py-2"
         >
-          <div class="text-primary mb-2">Top Up</div>
+          <div class="text-primary">Top Up</div>
         </div>
       </div>
     </div>

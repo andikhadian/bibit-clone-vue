@@ -1,7 +1,5 @@
 <template>
-  <div
-    class="border-b lg:border border-gray-lighter h-44 rounded-md bg-white py-4"
-  >
+  <div class="border-b lg:border border-gray-lighter rounded-md bg-white pt-3">
     <div class="px-5">
       <h5 class="text-header">Nilai Portofolio</h5>
       <div class="flex justify-between items-center">
@@ -37,7 +35,7 @@
           ></path>
         </svg>
       </div>
-      <div class="flex justify-between items-center mt-3">
+      <div class="flex justify-between items-center my-3">
         <div>
           <h5 class="text-header">Keuntungan</h5>
           <h5 class="text-primary mt-1">Rp 123,321</h5>
@@ -48,8 +46,8 @@
         </div>
       </div>
     </div>
-    <div class="border-t border-gray-lighter mt-3 h-8">
-      <div class="px-5 py-2 flex justify-between items-center">
+    <div class="border-t border-gray-lighter px-5 py-2">
+      <div class="flex justify-between items-center">
         <h5 class="text-primary">Lihat Portofolio</h5>
         <svg
           class="w-4 h-4 text-primary"

@@ -8,6 +8,12 @@
         <list-portofolio />
         <tutorial />
         <recommendation />
+        <choose />
+        <list />
+        <articel />
+        <quiz />
+        <list-2 />
+        <ojk />
       </div>
     </div>
     <Nav />
@@ -21,6 +27,12 @@ import ListPortofolio from '@/components/ListPortofolio.vue';
 import Nav from '@/components/Nav.vue';
 import Tutorial from '../components/Tutorial.vue';
 import Recommendation from '../components/Recommendation.vue';
+import Choose from '../components/Choose.vue';
+import List from '../components/List.vue';
+import List2 from '../components/List2.vue';
+import Articel from '../components/Articel.vue';
+import Quiz from '../components/Quiz.vue';
+import Ojk from '../components/Ojk.vue';
 export default {
   name: "Home",
   components: {
@@ -30,6 +42,12 @@ export default {
     Nav,
     Tutorial,
     Recommendation,
-  }
+    Choose,
+    List,
+    List2,
+    Articel,
+    Quiz,
+    Ojk,
+  },
 };
 </script>
