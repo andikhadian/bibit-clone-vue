@@ -6,10 +6,8 @@
       <div class="content pb-24 overflow-y-auto">
         <portofolio />
         <list-portofolio />
-        <list-portofolio />
-        <list-portofolio />
         <tutorial />
-        <tutorial />
+        <recommendation />
       </div>
     </div>
     <Nav />
@@ -22,6 +20,7 @@ import Portofolio from '@/components/Portofolio.vue';
 import ListPortofolio from '@/components/ListPortofolio.vue';
 import Nav from '@/components/Nav.vue';
 import Tutorial from '../components/Tutorial.vue';
+import Recommendation from '../components/Recommendation.vue';
 export default {
   name: "Home",
   components: {
@@ -30,6 +29,7 @@ export default {
     'list-portofolio': ListPortofolio,
     Nav,
     Tutorial,
+    Recommendation,
   }
 };
 </script>

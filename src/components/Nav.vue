@@ -7,18 +7,19 @@
         class="w-12 h-12 p-2 cursor-pointer flex flex-col justify-center items-center hover:bg-gray rounded-md"
       >
         <svg
-          class="w-6 h-6 text-green"
+          xmlns="http://www.w3.org/2000/svg"
+          width="16"
+          height="16"
+          viewBox="0 0 24 24"
           fill="none"
           stroke="currentColor"
-          viewBox="0 0 24 24"
-          xmlns="http://www.w3.org/2000/svg"
+          stroke-width="2"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          class="text-icon text-green"
         >
-          <path
-            stroke-linecap="round"
-            stroke-linejoin="round"
-            stroke-width="2"
-            d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6"
-          ></path>
+          <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path>
+          <polyline points="9 22 9 12 15 12 15 22"></polyline>
         </svg>
         <p class="text-icon text-green">Home</p>
       </div>
@@ -26,24 +27,19 @@
         class="w-12 h-12 p-2 cursor-pointer flex flex-col justify-center items-center hover:bg-gray rounded-md"
       >
         <svg
-          class="w-6 h-6 text-gray-darker"
+          class="text-icon text-gray-darker"
+          xmlns="http://www.w3.org/2000/svg"
+          width="16"
+          height="16"
+          viewBox="0 0 24 24"
           fill="none"
           stroke="currentColor"
-          viewBox="0 0 24 24"
-          xmlns="http://www.w3.org/2000/svg"
+          stroke-width="2"
+          stroke-linecap="round"
+          stroke-linejoin="round"
         >
-          <path
-            stroke-linecap="round"
-            stroke-linejoin="round"
-            stroke-width="2"
-            d="M11 3.055A9.001 9.001 0 1020.945 13H11V3.055z"
-          ></path>
-          <path
-            stroke-linecap="round"
-            stroke-linejoin="round"
-            stroke-width="2"
-            d="M20.488 9H15V3.512A9.025 9.025 0 0120.488 9z"
-          ></path>
+          <path d="M21.21 15.89A10 10 0 1 1 8 2.83"></path>
+          <path d="M22 12A10 10 0 0 0 12 2v10z"></path>
         </svg>
         <p class="text-icon text-gray-darker">Portofolio</p>
       </div>
@@ -51,7 +47,7 @@
         class="w-12 h-12 p-2 cursor-pointer flex flex-col justify-center items-center hover:bg-gray rounded-md"
       >
         <svg
-          class="w-6 h-6 text-gray-darker"
+          class="text-icon text-gray-darker"
           fill="none"
           stroke="currentColor"
           viewBox="0 0 24 24"
@@ -70,7 +66,7 @@
         class="w-12 h-12 p-2 cursor-pointer flex flex-col justify-center items-center hover:bg-gray rounded-md"
       >
         <svg
-          class="w-6 h-6 text-gray-darker"
+          class="text-icon text-gray-darker"
           fill="none"
           stroke="currentColor"
           viewBox="0 0 24 24"
@@ -89,7 +85,7 @@
         class="w-12 h-12 p-2 cursor-pointer flex flex-col justify-center items-center hover:bg-gray rounded-md"
       >
         <svg
-          class="w-6 h-6 text-gray-darker"
+          class="text-icon text-gray-darker"
           fill="none"
           stroke="currentColor"
           viewBox="0 0 24 24"
