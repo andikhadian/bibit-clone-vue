@@ -4,8 +4,9 @@
     <top-bar class="flex lg:hidden" />
     <portofolio />
     <list-portofolio />
-    <Nav />
     <tutorial />
+    <tutorial />
+    <Nav />
   </div>
 </template>
 

@@ -6,7 +6,7 @@
       <h5 class="text-header">Nilai Portofolio</h5>
       <div class="flex justify-between items-center">
         <h5 class="text-lg mt-1 text-black-lighter font-normal">
-          Rp <span class="text-2xl font-extrabold">123,321.123</span>
+          Rp <span class="text-2xl font-extrabold">123,321,123</span>
         </h5>
         <!-- <svg
           class="w-4 h-4 text-gray-darker"
