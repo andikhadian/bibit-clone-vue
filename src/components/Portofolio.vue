@@ -6,7 +6,7 @@
       <h5 class="text-header">Nilai Portofolio</h5>
       <div class="flex justify-between items-center">
         <h5 class="text-lg mt-1 text-black-lighter font-normal">
-          Rp <span class="text-2xl font-extrabold">5,096.518</span>
+          Rp <span class="text-2xl font-extrabold">123,321.123</span>
         </h5>
         <!-- <svg
           class="w-4 h-4 text-gray-darker"
@@ -40,7 +40,7 @@
       <div class="flex justify-between items-center mt-3">
         <div>
           <h5 class="text-header">Keuntungan</h5>
-          <h5 class="text-primary mt-1">Rp 67,488</h5>
+          <h5 class="text-primary mt-1">Rp 123,321</h5>
         </div>
         <div class="text-right">
           <h5 class="text-header">Imbal Hasil</h5>

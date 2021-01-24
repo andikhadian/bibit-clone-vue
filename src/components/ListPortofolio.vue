@@ -24,11 +24,11 @@
           <div class="flex justify-between items-center mt-6">
             <div>
               <h5 class="text-header">Investasi</h5>
-              <h5 class="text-black text-sm mt-2">Rp 67,488</h5>
+              <h5 class="text-black text-sm mt-2">Rp 123,321</h5>
             </div>
-            <div class="text-right">
+            <div>
               <h5 class="text-header">Keuntungan</h5>
-              <h5 class="text-primary mt-2">▲ +1.34%</h5>
+              <h5 class="text-primary mt-1">Rp 12,321</h5>
             </div>
           </div>
         </div>
@@ -38,8 +38,9 @@
           <div class="text-primary mb-2">Top Up</div>
         </div>
       </div>
-      <!-- <div
-      class="ml-8 cursor-pointer flex flex-col justify-center items-center text-center w-14"
+    </div>
+    <div
+      class="ml-6 cursor-pointer flex flex-col justify-center items-center text-center w-14 pr-10 lg:pr-0"
     >
       <div
         class="border border-gray-lighter flex justify-center items-center w-12 h-12 bg-white rounded-full"
@@ -60,7 +61,6 @@
         </svg>
       </div>
       <h5 class="text-primary mt-2">Tambah Portofolio</h5>
-    </div> -->
     </div>
   </div>
 </template>

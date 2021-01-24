@@ -7,29 +7,34 @@
       <img
         src="https://app.bibit.id/static/media/home-modal-banner-2.cd4675ce.svg"
         alt=""
-        class="banner mr-6"
+        class="banner"
       />
       <img
         src="https://app.bibit.id/static/media/tutor-1.b275c77c.svg"
         alt=""
-        class="border border-gray-lighter bg-white rounded-md mr-6"
+        class="border border-gray-lighter bg-white rounded-md ml-6"
       />
       <img
         src="https://app.bibit.id/static/media/tutor-2.e4c353f2.svg"
         alt=""
-        class="border border-gray-lighter bg-white rounded-md mr-6"
+        class="border border-gray-lighter bg-white rounded-md ml-6"
       />
 
       <img
         src="https://app.bibit.id/static/media/tutor-3.01daadcb.svg"
         alt=""
-        class="border border-gray-lighter bg-white rounded-md mr-6"
+        class="border border-gray-lighter bg-white rounded-md ml-6"
       />
 
       <img
         src="https://app.bibit.id/static/media/tutor-4.09661e53.svg"
         alt=""
-        class="border border-gray-lighter bg-white rounded-md mr-6"
+        class="border border-gray-lighter bg-white rounded-md ml-6"
+      />
+      <img
+        src="https://app.bibit.id/static/media/tutor-end.65222128.svg"
+        alt=""
+        class="rounded-md ml-6"
       />
     </div>
   </div>
