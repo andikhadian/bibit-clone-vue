@@ -1,11 +1,17 @@
 <template>
   <div class="home">
-    <top-bar class="hidden lg:flex" />
-    <top-bar class="flex lg:hidden" />
-    <portofolio />
-    <list-portofolio />
-    <tutorial />
-    <tutorial />
+    <div class="">
+      <top-bar class="hidden lg:flex" />
+      <top-bar class="flex lg:hidden" />
+      <div class="content pb-5 overflow-y-auto">
+        <portofolio />
+        <list-portofolio />
+        <list-portofolio />
+        <list-portofolio />
+        <tutorial />
+        <tutorial />
+      </div>
+    </div>
     <Nav />
   </div>
 </template>

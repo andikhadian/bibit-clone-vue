@@ -25,6 +25,17 @@
 .width-container {
     width: 768px;
 }
+
+.content {
+    max-height: 620px;
+}
+
+@media screen and (min-width: 1024px) {
+    .content {
+        max-height: 550px;
+    }
+  }
+  
 .text-header {
     @apply text-xs text-gray-darker font-light;
 }
