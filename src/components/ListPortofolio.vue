@@ -1,5 +1,5 @@
 <template>
-  <div class="carousel flex items-center my-4 coba">
+  <div id="step-2" class="carousel flex items-center my-4 coba">
     <div v-for="item in 2" :key="item" class="">
       <div class="card border border-gray-lighter rounded-md bg-white mr-6">
         <div class="p-4">
@@ -66,10 +66,7 @@
 </template>
 
 <script>
-export default {
-
-}
+export default {};
 </script>
 
-<style>
-</style>
+<style></style>

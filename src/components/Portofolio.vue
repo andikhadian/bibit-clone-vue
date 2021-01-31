@@ -1,5 +1,8 @@
 <template>
-  <div class="border-b lg:border border-gray-lighter rounded-md bg-white pt-3">
+  <div
+    id="step-1"
+    class="border-b lg:border border-gray-lighter rounded-md bg-white pt-3"
+  >
     <div class="px-5">
       <h5 class="text-header">Nilai Portofolio</h5>
       <div class="flex justify-between items-center">
@@ -42,7 +45,7 @@
         </div>
         <div class="text-right">
           <h5 class="text-header">Imbal Hasil</h5>
-          <h5 class="text-primary mt-1">▲ +1.34%</h5>
+          <h5 class="text-primary mt-1">▲ +12.34%</h5>
         </div>
       </div>
     </div>
@@ -69,10 +72,7 @@
 </template>
 
 <script>
-export default {
-
-}
+export default {};
 </script>
 
-<style>
-</style>
+<style></style>

@@ -1,5 +1,5 @@
 <template>
-  <div class="mt-6 lg:border border-gray-lighter rounded-md bg-white p-5">
+  <div id="step-7" class="mt-6 lg:border border-gray-lighter rounded-md bg-white p-5">
     <div class="flex items-center">
       <svg
         class="text-green"
@@ -106,10 +106,7 @@
 </template>
 
 <script>
-export default {
-
-}
+export default {};
 </script>
 
-<style>
-</style>
+<style></style>

@@ -1,5 +1,5 @@
 <template>
-  <div class="">
+  <div id="step-3" class="">
     <h5 class="px-5 lg:px-0 text-sm text-black-lighter font-bold">
       Tutorial Berinvestasi
     </h5>
@@ -44,29 +44,28 @@
 // import { Swiper, SwiperSlide } from 'vue-awesome-swiper'
 // import 'swiper/swiper-bundle.min.css'
 export default {
-    components: {
+  components: {
     //   Swiper,
     //   SwiperSlide,
+  },
+  data() {
+    return {
+      // swiperOption: {
+      //     slidesPerView: 5,
+      //     spaceBetween: 0,
+      //     freeMode: true,
+      // }
+    };
+  },
+  methods: {
+    onSwiper(swiper) {
+      console.log(swiper);
     },
-    data() {
-        return {
-            // swiperOption: {
-            //     slidesPerView: 5,
-            //     spaceBetween: 0,
-            //     freeMode: true,
-            // }
-        }
-    },
-    methods: {
-      onSwiper(swiper) {
-        console.log(swiper)
-      },
-      onSlideChange() {
-        console.log('slide change')
-      },
-    },
-}
+    onSlideChange() {
+      console.log("slide change");
+    }
+  }
+};
 </script>
 
-<style>
-</style>
+<style></style>

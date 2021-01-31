@@ -1,6 +1,35 @@
 @tailwind base;
 @tailwind components;
 
+.v-tour__target--highlighted {
+    box-shadow: 0 0 0 99999px rgba(0,0,0,.4) !important;
+  }
+
+.v-step {
+    @apply border border-gray-lighter text-header shadow-xl;
+    background-color: white !important;
+    box-shadow: none !important;
+    filter: none !important;
+}
+
+.v-step__content {
+    @apply text-gray-lightest font-bold
+}
+
+.v-step .v-step__arrow {
+    @apply border-green
+}
+
+.v-step__buttons  .v-step__button.v-step__button-next, .v-step__button.v-step__button.v-step__button-stop {
+    @apply button-next
+}
+
+.v-step__buttons  .v-step__button.v-step__button-previous {
+    @apply button-prev
+}
+.v-step__buttons  .v-step__button.v-step__button-skip {
+    @apply button-skip
+}
 
 ::-webkit-scrollbar {
     width: 0px;
@@ -77,22 +106,17 @@
     font-weight: 300;
     font-size: 0.6rem;
 }
-.carousel {
-    /* width: 100%; */
-    height: 180px;
+.button-small {
+    @apply bg-green text-white font-semibold text-xs px-2 py-2 rounded-md focus:outline-none
 }
-.carousel .carousel-wrap {
-    position: relative;
-    height: 100%;
+.button-next {
+    @apply bg-green text-white font-semibold text-xs px-2 py-1 rounded-md focus:outline-none
 }
-.carousel .carousel-wrap .carousel-track {
-    display: flex;
-    align-items: center;
-    flex-wrap: nowrap;
-    scroll-behavior: smooth;
-    overflow-x: auto;
-    overflow-y: hidden;
-    height: 100%;
+.button-prev {
+    @apply bg-white border-green text-green font-semibold text-xs px-2 py-1 rounded-md focus:outline-none
+}
+.button-skip {
+    @apply bg-white text-gray-darker font-light text-xs px-2 py-1 rounded-md focus:outline-none
 }
 .card {
     /* margin-right: 20px; */
