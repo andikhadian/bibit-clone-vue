@@ -1,5 +1,8 @@
 <template>
-  <div id="step-8" class="mt-6 lg:border border-gray-lighter rounded-md bg-white pb-5">
+  <div
+    id="step-8"
+    class="mt-6 lg:border border-gray-lighter rounded-md bg-white pb-5"
+  >
     <h5 class="text-black text-md font-bold pt-5 pl-5">Quiz Investasi</h5>
     <div class="coba flex items-center mt-6 lg:px-5">
       <img

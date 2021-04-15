@@ -7,6 +7,7 @@ import VueTour from "vue-tour";
 require("vue-tour/dist/vue-tour.css");
 
 import "@/assets/styles/tailwind.css";
+import "./registerServiceWorker";
 
 Vue.use(VueTour);
 Vue.config.productionTip = false;

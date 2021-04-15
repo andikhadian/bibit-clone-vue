@@ -1,5 +1,8 @@
 <template>
-  <div id="step-9" class="list mx-5 mt-6 lg:border border-gray-lighter rounded-md bg-white">
+  <div
+    id="step-9"
+    class="list mx-5 mt-6 lg:border border-gray-lighter rounded-md bg-white"
+  >
     <div class="border-b border-gray-lighter">
       <div class="p-5 flex justify-between items-center">
         <div class="flex items-center">

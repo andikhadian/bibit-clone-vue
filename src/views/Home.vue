@@ -96,7 +96,8 @@ export default {
         },
         {
           target: "#step-2",
-          content: "Disini kamu bisa lihat daftar portofolio yang kamu punya nih",
+          content:
+            "Disini kamu bisa lihat daftar portofolio yang kamu punya nih",
           params: {
             // highlight: true,
             enableScrolling: false
@@ -112,7 +113,8 @@ export default {
         },
         {
           target: "#step-4",
-          content: "Disini robo akan memberi saran yang sesuai dengan resiko kamu nih",
+          content:
+            "Disini robo akan memberi saran yang sesuai dengan resiko kamu nih",
           params: {
             // highlight: true,
             enableScrolling: false
@@ -128,7 +130,8 @@ export default {
         },
         {
           target: "#step-6",
-          content: "Disini kamu bisa set nabung rutin dan kasih gift untuk teman atupun keluarga nih",
+          content:
+            "Disini kamu bisa set nabung rutin dan kasih gift untuk teman atupun keluarga nih",
           params: {
             // highlight: true,
             enableScrolling: false
@@ -157,7 +160,7 @@ export default {
             // highlight: true,
             enableScrolling: false
           }
-        },
+        }
       ]
     };
   },

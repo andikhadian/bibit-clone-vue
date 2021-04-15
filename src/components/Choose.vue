@@ -1,5 +1,8 @@
 <template>
-  <div id="step-5" class="mt-6 lg:border border-gray-lighter rounded-md bg-white p-5">
+  <div
+    id="step-5"
+    class="mt-6 lg:border border-gray-lighter rounded-md bg-white p-5"
+  >
     <div class="lg:flex justify-between items-center">
       <div class="">
         <h5 class="text-black text-md font-bold">Pilih Reksadana Sendiri</h5>
